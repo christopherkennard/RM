@@ -1,0 +1,22 @@
+RM
+March 3 - 18th 2023
+
+http://localhost:63759/api/Account/Register
+
+body json
+{
+    "Email":"chris@IamChris.com",
+    "Password":"P@ssw0rd",
+    "ConfirmPassword":"P@ssw0rd"
+}
+
+url: 
+http://localhost:56574
+token:
+sU_2xA5fPJXYxDemKwDnHuNS8f5aE9pL5LLV4GhNQQ_TVEoRns19AKU58YaId1V-aPyfiZS4gUzoFnhCztYaYJdcXMoNIPPYYs2vguz1BbYmSbC7Y-0T7fTMwatwjQZGxnJhdD3xS1mYPGep0kv3DANczcgctv5Yt--4ekkQxKnG7qQkrFHbQG3p_M87iHD-LFhEwW4Gtr6-xO-bklvhqrYHeCekBVYE6sMmpleMXO_hVkgLqBsfIGrmo6g3LmnddL-VhpOcWQ1vApdRwx1CwSjhrIvdxcM2i1K6xNPUY_2ivdZLWTOsJAhJmrt-RbnaYngNUz1o_1ZNO_M5ACragv0rdb1fh6iHyvmGQr604H8NuAj5GcNegmw5gBb0MtNjjxxwLMeSaKYBNAcgy6tP-I-2wyL33JvlmddH730GUCqJTNxr1Mm6iKiiLPj5IVQIfF-cQV_DgYOQ-Fx54oe3m99EUkOH3ZczjEXMZGZkaAk
+
+userId:
+4ad90255-7dbf-49ba-89ca-cb447ec73aa0
+
+
+
